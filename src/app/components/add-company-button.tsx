@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react';
 import dynamic from 'next/dynamic';
-import Button from '@/app/components/buttom';
+import Button from '@/app/components/button';
 // import CompanyFormModal from '@/app/components/company-form-modal';
 
 const CompanyFormModal = dynamic(() => import('./company-form-modal'), {
