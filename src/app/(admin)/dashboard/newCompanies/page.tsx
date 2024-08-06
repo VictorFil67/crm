@@ -11,7 +11,8 @@ export default function Page({}: PageProps) {
     //   <MagicButton />
     // </main>
     <>
-      <Header>Dashboard</Header>
+      <Header>Dashboard / New Companies</Header>
+      <div>Some addditional info</div>
     </>
   );
 }
